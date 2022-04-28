@@ -1,1 +1,1 @@
-Implementation of RNN algorithm for stock prediction in python using TensorFlow, Sklearn.
+Implementation of RNN algorithm for stock prediction in Python.
